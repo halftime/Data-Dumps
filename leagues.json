@@ -1,0 +1,201 @@
+{
+  "BE_JupilerPro": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/227875758",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/belgium/jupiler_pro_league",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/belgium/jupiler_pro_league/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/belgium-jupiler-pro-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2965/0/odds/byleague"
+  },
+  "BE_BelgiumCup": {
+	"circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/1415979523",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/belgium/beker_van_belgie",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/belgium/beker_van_belgie/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/belgium-belgian-cup/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/3144/0/odds/byleague"
+  },
+  
+  "IT_SuperCoppa": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/249661047",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/italy/coppa_italia",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/italy/coppa_italia/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/italy-italian-cup/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/3102/0/odds/byleague"
+  },
+  "IT_Series_A": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/54344509",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/italy/serie_a",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/italy/serie_a",
+    "betfirst": "https://betfirst.dhnet.be/en/football/italy-serie-a/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2942/0/odds/byleague"
+  },
+  "SPA_LaLiga": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/1397387603",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/spain/la_liga",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/spain/la_liga/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/spain-la-liga/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2941/0/odds/byleague"
+  },
+  "UK_PremierLeague": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/54210798",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/england/premier_league",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/england/premier_league/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/england-premier-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2936/0/odds/byleague"
+  },
+  "UK_FA_Cup": {
+	"circus": "https://sport.circus.be/en/sport/sports-bets/844/57290187",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/england/fa_cup",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/england/fa_cup/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/england-fa-cup/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/2935/0/odds/byleague"
+  },
+  "UK_EFL_Cup": {
+	"circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/2073788504",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/england/efl_cup",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/england/efl_cup/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/england-league-cup/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/2972/0/odds/byleague"
+  },
+  "UK_Championship": {
+	"circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/223888023",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/england/the_championship",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/england/the_championship/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/england-championship/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2937/0/odds/byleague"
+  },
+  
+  "GER_Bundesliga": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/54297345",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#filter/football/germany/bundesliga",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/germany/bundesliga/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/germany-1-bundesliga/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2950/0/odds/byleague"
+  },
+  "FR_League_1": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/54287323",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/france/ligue_1",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/france/ligue_1/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/france-ligue-1/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/2943/0/odds/byleague"
+  },
+  "FR_CoupeFrance": {
+	"circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/80386691",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/france/coupe_de_france",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/france/coupe_de_france/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/france-french-cup/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/3070/0/odds/byleague"
+  },
+  "PT_LaLiga": {
+	"circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/1397317764",
+	"napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/portugal/primeira_liga",
+	"unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/portugal/primeira_liga/all/matches",
+	"betfirst": "https://betfirst.dhnet.be/en/football/portugal-primeira-liga/",
+	"starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/3152/0/odds/byleague"
+  },
+  "EU_ConferenceLeague": {
+    "circus": "https://sport.circus.be/nl/sport/sportweddenschappen/844/4010307306",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/europa_conference_league",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/europa_conference_league/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/europe-europa-conference-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/31608/0/odds/byleague"
+  },
+  "EU_ChampionsLeague": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/1351379392",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/champions_league",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/champions_league/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/europe-champions-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/16808/0/odds/byleague"
+  },
+
+  "EU_Euro2024Qualify": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/1559195711",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/euro_qualification",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/euro_qualification/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/europe-euro-2024-qualifying/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/3148/0/odds/byleague"
+  },
+
+  "EU_EuropeLeague": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/54139136",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/europa_league",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/europa_league/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/europe-europa-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/16809/0/odds/byleague"
+  },
+
+  "NL_EersteDivisie": {
+    "circus": "https://sport.circus.be/en/sport/event/844/0/2189144909/9403481",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/netherlands/eerste_divisie",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/netherlands/eerste_divisie/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/netherlands-eerste-divisie/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/3066/0/odds/byleague"
+  },
+
+  "South_America_Recopa": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/211",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/club_tournaments/recopa_sudamericana",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/club_tournaments/recopa_sudamericana/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/south-america-recopa-sudamericana/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/4706/0/odds/byleague"
+  },
+
+  "MX_Liga_Expansion": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/34218993",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/mexico/liga_de_expansion_mx",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/mexico/liga_de_expansion_mx/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/mexico-liga-de-expansion/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/3103/0/odds/byleague"
+  },
+
+  "CostaRica_Premera_Division": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/1853553322",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/costa_rica/primera_division_costa_rica",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/costa_rica/primera_division_costa_rica/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/football/costa-rica-primera-division/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/66/0/3516/0/odds/byleague"
+  },
+
+  "SPA_Cop_Del_Ray": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/844/71143921",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/football/spain/copa_del_rey",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/football/spain/copa_del_rey",
+    "betfirst": "https://betfirst.dhnet.be/en/football/spain-copa-del-rey/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/0/0/2973/0/odds/byleague"
+  },
+
+
+
+  "darts_premier_league": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/882/2456459862",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/darts",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/darts/premier_league_of_darts/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/darts/united-kingdom-premier-league/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/78/0/4063/0/odds/byleague"
+  },
+
+  "tennis_ATP_Doha": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/848/300",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/tennis/atp/",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/tennis/atp/doha/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/tennis/atp-doha/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/68/0/3565/0/odds/byleague"
+  },
+
+  "tennis_grandslam_men": {
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/tennis/grand_slam/australian_open",
+    "circus": "https://sport.circus.be/en/sport/sports-bets/848/363",
+    "betfirst": "https://betfirst.dhnet.be/en/tennis/australia-australian-open-men/"
+  },
+  "tennis_grandslam_women": {
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/tennis/grand_slam/australian_open_women",
+    "circus": "https://sport.circus.be/en/sport/sports-bets/848/364",
+    "betfirst": "https://betfirst.dhnet.be/en/tennis/australia-australian-open-women/"
+  },
+  "basket_NBA": {
+    "circus": "https://sport.circus.be/en/sport/sports-bets/850/815111577",
+    "napoleon": "https://www.napoleonsports.be/nl/sports#sports-hub/basketball/nba",
+    "unibet": "https://nl-sports.unibet.be/betting/sports/filter/basketball/nba/all/matches",
+    "betfirst": "https://betfirst.dhnet.be/en/basketball/united-states-nba/",
+    "starcasino": "https://www.starcasinosport.be/nl/top-sports#/tree/all/67/0/2980/0/odds/byleague"
+  }
+}
