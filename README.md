@@ -1,11 +1,11 @@
 # Belgium soft sportbooks, an overview
 
-**Shoutout to (one of) the most useless regulatory instutution in Belgium!**
+**Shoutout to (one of) the most useless regulatory instutution(s) in Belgium!**
 
 The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. The GC is the official regulator of the gambling sector. 
 
+**The GC is lobbied, and backdoor funded by the sportsbooks themselves. Even the NATIONAL LOTTERY is involved as they operate the sportsbook Scooore**
 
-**The GC is lobbied, and backdoor funded by the sportsbooks thru politics. The NATIONAL LOTTERY is involved themselves as they operate the sportsbook Scooore**
 
 ## scooore.be
 - Unibet copy
