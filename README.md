@@ -7,8 +7,9 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 **The GC is lobbied, and backdoor funded by the sportsbooks themselves. Even the NATIONAL LOTTERY is involved as they operate the sportsbook Scooore**
 
 
-## scooore.be
+## scooore.be (NATIONAL LOTTERY owned)
 - Unibet copy
+- The first book to limit me. Just to get an idea how greedy these folks are
 - very quick to limit bonus bets
 - low stake limits (approx 1/3 unibets' limits)
 - slow bank withdrawals
