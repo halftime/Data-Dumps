@@ -76,3 +76,8 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 - will limit to 1 cent max bet
 - points system provides some extra value
 - 7/10 good while it lasts
+
+## sports.betway.be
+**27 aug 2024 - We write to inform you that Betway has now ceased its operations in Belgium.**
+- nothing of value was lost
+- 0/10 rip in pizza
