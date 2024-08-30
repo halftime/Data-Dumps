@@ -57,7 +57,7 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 - 8/10 will take their money again
 
 ## bet777.be
-- meh odds
+- some value in over/under markets, cards in game, etc
 - 30%/50%/100% boosts are OK value when combined with their odds
 - doesn't seem to limit?
 - points system provides some extra value
@@ -77,6 +77,12 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 - will limit to 1 cent max bet
 - points system provides some extra value
 - 7/10 good while it lasts
+
+## betcenter.be
+- bets take longer to place, if denied move on to the next... (they know the line is busted)
+- all bets can be cancelled just after placing, getting you quick free exit incase the line moved
+- slightly different way of naming things; EG over 2.5 is noted as 3+ (3 goals or more) and under 2.5 is noted as (0-2)
+- 8/10 
 
 ## sports.betway.be
 **27 aug 2024 - We write to inform you that Betway has now ceased its operations in Belgium.**
