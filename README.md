@@ -38,7 +38,7 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 - 9/10 would take their money again
 
 ## ladbrokes.be
-- annoying broker, random "errors" when placing bet
+- annoying book, random "errors" when placing bet
 - semi decent boosted odds
 - different markets depending on region
 - quick on limiting (bonus bets)
