@@ -1,15 +1,11 @@
 # Belgium soft sportbooks, an overview
 
-**Shoutout to (one of) the most useless regulatory instutution(s) in Belgium!**
-
 The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. The GC is the official regulator of the gambling sector. 
-
-**The GC is lobbied, and backdoor funded by the sportsbooks themselves. Even the NATIONAL LOTTERY is involved as they operate the sportsbook Scooore**
 
 
 ## scooore.be (NATIONAL LOTTERY owned)
 - Unibet copy
-- The first book to limit me. Just to get an idea how greedy these folks are
+- first book to limit me
 - very quick to limit bonus bets
 - low stake limits (approx 1/3 unibets' limits)
 - slow bank withdrawals
@@ -18,6 +14,7 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 ## unibet.be
 - decent odds & bet limits
 - still handing out 10€ freebets
+-   currently throwing 15€ freebets at clients for 10€ single stake at 1.5
 - different markets depending on region
 - quick withdrawals
 - 9/10 will take their money again
@@ -52,6 +49,7 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 ## starcasinosport.be
 - decent odds
 - 20€ boosted odds are good
+-   has moved on to xx% boosted odds
 - doesn't seem to limit?
 - instant withdrawals
 - 8/10 will take their money again
@@ -75,12 +73,13 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 ## circus-sport.be
 - bonus bets are good value
 - will limit to 1 cent max bet
+- (unlimited again?)
 - points system provides some extra value
 - 7/10 good while it lasts
 
 ## betcenter.be
 - bets take longer to place, if denied move on to the next... (they know the line is busted)
-- all bets can be cancelled just after placing, getting you quick free exit incase the line moved
+- all bets can be cancelled just after placing, getting you a free exit incase the line moved
 - slightly different way of naming things; EG over 2.5 is noted as 3+ (3 goals or more) and under 2.5 is noted as (0-2)
 - 8/10 
 
