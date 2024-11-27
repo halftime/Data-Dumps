@@ -8,6 +8,7 @@ The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. Th
 - first book to limit me
 - very quick to limit bonus bets
 - low stake limits (approx 1/3 unibets' limits)
+- (current stake limit seems equal to (lower) unibet limit?)
 - slow bank withdrawals
 - 2/10 fun didn't last long, just use unibet
 
