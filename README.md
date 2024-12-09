@@ -1,7 +1,10 @@
+# history-bets-sm.xls
+Data represents just one side of the arbitrage...
+- 1282 events, 1770 bets
+- Stake: 100 786€
+- Turnover: 97 105€
+
 # Belgium soft sportbooks, an overview
-
-The Gaming Commission (GC) was established by the Gambling Act of 7 May 1999. The GC is the official regulator of the gambling sector. 
-
 
 ## scooore.be (NATIONAL LOTTERY owned)
 - Unibet copy
