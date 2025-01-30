@@ -16,6 +16,7 @@
   [
     "Belgium First Amateur Division",
     "Eerste Amateur Divisie, België",
+    "belgium eerste nationale",
     "België - Eerste Nationale"
   ],
   [
@@ -78,6 +79,7 @@
   ],
   [
     "Saudi Arabia - Premier",
+    "saudi arabia professional league",
     "Saudi Arabia Pro League",
     "saoedi arabie professional league",
     "saudi arabie professional league"
@@ -99,6 +101,7 @@
   [
     "England - Super League Women",
     "England Super League Women",
+    "england super league (w)",
     "FA Super League (W) , Engeland",
     "engeland super league (d)"
   ],
@@ -156,11 +159,24 @@
     "engeland fa cup"
   ],
   [
+    "England FA Cup Women",
+    "England FA Cup (W)",
+    "engeland FA cup (D)"
+  ],
+  [
+    "england national league cup",
+    "English National League Cup"
+  ],
+  [
+    "england premier league cup u21"
+  ],
+  [
     "England - Community Shield",
     "england fa community shield (charity shield)"
   ],
   [
     "england professional development",
+    "england professional development league",
     "England - Professional Development League Division 1 (U21)",
     "engeland - am professional development league",
     "engeland professional development league 2",
@@ -177,10 +193,21 @@
   [
     "England - Championship",
     "Engeland - Championship",
+    "england the championship",
     "english championship",
     "england league championship",
     "Championship, Engeland",
     "England Football League Championship"
+  ],
+  [
+    "england fa championship women",
+    "england the championship (w)",
+    "Engeland championship (D)"
+  ],
+  [
+    "england fa womens premier league national division",
+    "england national league (w)",
+    "Engeland National League (D)"
   ],
   [
     "England - Premier League",
@@ -192,6 +219,7 @@
   ],
   [
     "England Northern Premier League",
+    "england northern league premier division",
     "Northern Premier League, Premier Division, Engeland"
   ],
   [
@@ -204,6 +232,9 @@
     "Ukraine Premier League (Vyscha Liha)",
     "Oekraïne Premier League",
     "Premier League Ukraine"
+  ],
+  [
+    "Spain Copa Catalunya"
   ],
   [
     "spain - primera division rfef",
@@ -221,7 +252,8 @@
   [
     "Spain - Primera Women",
     "Spain Primera Division Women",
-    "spanje primera division (d)"
+    "spanje primera division (d)",
+    "spain primera division (w)"
   ],
   [
     "Spain Primera Federacion Women",
@@ -247,6 +279,7 @@
     "spanje copa del rey"
   ],
   [
+    "spain la liga 2",
     "Spain - Segunda Division",
     "Spain Second Division A (Liga Adelante)",
     "spanje la liga 2",
@@ -254,9 +287,15 @@
     "LaLiga 2, Spanje"
   ],
   [
+    "Spain Segunda División RFEF",
     "spain segunda division rfef",
     "spanje segunda rfef playoff promotie degradatie",
-    "Spanje - Segunda Federacion - Gr.4"
+    "Spanje - Segunda Federacion - Gr.4",
+    "spain segunda rfef 1",
+    "spain segunda rfef 2",
+    "spain segunda rfef 3",
+    "spain segunda rfef 4",
+    "spain segunda rfef 5"
   ],
   [
     "spain - primera division women",
@@ -299,6 +338,10 @@
     "Coppa Italia, Italië"
   ],
   [
+    "Italy Coppa Italia Women",
+    "italy coppa italia (w)"
+  ],
+  [
     "Italy - Serie A",
     "Italy Serie A",
     "italian serie a",
@@ -325,11 +368,21 @@
     "italie serie c girone c"
   ],
   [
+    "italy serie d",
     "Italy - Copa Italia Serie D",
     "Coppa Italia Serie D",
     "italie coppa italia serie d",
     "italie serie d girone h",
     "italie serie d girone a",
+    "italy serie d girone a",
+    "italy serie d girone b",
+    "italy serie d girone c",
+    "italy serie d girone d",
+    "italy serie d girone i",
+    "italy serie d girone h",
+    "italy serie d girone g",
+    "italy serie d girone f",
+    "italy serie d girone e",
     "italie serie d play offs"
   ],
   [
@@ -631,6 +684,7 @@
     "Argentina - Copa Diego Armando Maradona",
     "Argentina - Copa Diego Armando Maradona",
     "Argentina Liga Profesional",
+    "argentina liga profesional argentina",
     "argentine argentine liga profesional",
     "argentinie liga profesional argentina",
     "argentina copa liga profesional",
@@ -652,10 +706,6 @@
     "argentina primera c",
     "argentinie primera c",
     "Argentinië - Primera C - Apertura"
-  ],
-  [
-    "Spanje Am. - Tercera Division - Gr.12",
-    "Tercera Division, Spanje"
   ],
   [
     "Armenia - Super Cup",
@@ -737,6 +787,7 @@
     "Colombia - Primera A - Apertura",
     "colombian primera a",
     "colombia liga dimayor",
+    "colombia superliga dimayor",
     "Colombia Primera A"
   ],
   [
@@ -833,6 +884,7 @@
     "Cambodia Premier League"
   ],
   [
+    "Cyprus 1st Division",
     "Cyprus - 1st Division",
     "cyprus division 1 (cyta championship)",
     "cyprus 1e divisie"
@@ -891,6 +943,7 @@
   ],
   [
     "International Friendly Women",
+    "club friendly matches (w)",
     "Club Friendly Women",
     "World - Friendly Intl Women",
     "world international friendly women",
@@ -1000,11 +1053,6 @@
     "brazilie campeonato brasileiro u20"
   ],
   [
-    "Brazil Copa Paulista",
-    "brazilian copa paulista",
-    "brazilie copa paulista"
-  ],
-  [
     "Brazil Copa Paulista Women",
     "brazilie paulista (d)"
   ],
@@ -1020,12 +1068,6 @@
     "Brazil Copa do Nordeste",
     "Brazilië - Copa do Nordeste",
     "Copa do Nordeste, Brazilië"
-  ],
-  [
-    "Brazil Campeonato Paulista A1 (SP)",
-    "brazilie paulista a1",
-    "Brazilië - Paulista - Serie A1",
-    "Paulista, Serie A1, Brazilië"
   ],
   [
     "Peru - Primera",
@@ -1058,16 +1100,30 @@
   ],
   [
     "Brazil - Paraibano",
+    "brazil campeonato paraibano (pb)",
+    "brazil campeonato paraibano (pb)",
+
     "brazilie paraibano",
     "Brazilië - Paraibano - Divisie I"
   ],
   [
     "Brazil - Paulista",
-    "Brazilië - Paulista - Serie A2"
-  ],
-  [
+    "Brazil Copa Paulista",
+    "brazilian copa paulista",
+    "brazilie copa paulista",
+    "Brazil Campeonato Paulista A1 (SP)",
+    "brazil paulista a1",
+    "brazilie paulista a1",
+    "Brazilië - Paulista - Serie A1",
+    "Paulista, Serie A1, Brazilië",
+    "brazil paulista a2",
+    "Brazilië - Paulista - Serie A2",
     "brazilie paulista serie a3",
-    "brazilie paulista a3"
+    "brazil paulista serie b",
+    "brazil campeonato paulista a3 (sp)",
+    "brazil campeonato paulista a2 (sp)",
+    "brazilie paulista a3",
+    "brazil paulista a4"
   ],
   [
     "Brazil - Baiano",
@@ -1084,6 +1140,7 @@
     "Brazilië - Capixaba - Serie A"
   ],
   [
+    "brazil campeonato catarinense division 1 (sc)",
     "Catarinense, Brazilië",
     "Brazilië - Catarinense - Serie A"
   ],
@@ -1391,6 +1448,7 @@
   ],
   [
     "paraguay primera division",
+    "paraguay primera paraguay",
     "paraguay division 1 (primera division)"
   ],
   [
@@ -1436,6 +1494,10 @@
     "Thailand League 2",
     "thailand divisie 2",
     "Thai League 2, Thailand"
+  ],
+  [
+    "thailand fa cup",
+    "Thailand FA Beker"
   ],
   [
     "Thailand - Thai League 1",
@@ -1702,6 +1764,7 @@
   [
     "brazilie paranaense divisie i",
     "brazilie paranaense",
+    "brazil paranaense",
     "Brazil Campeonato Paranaense Division 1 (PR)"
   ],
   [
@@ -1878,6 +1941,10 @@
     "Liga de Expansion MX, Mexico"
   ],
   [
+    "Mexico Liga TDP",
+    "Mexico Tercera Division"
+  ],
+  [
     "mexico - primera division",
     "Mexico - Liga MX - Clausura",
     "Mexico - Liga MX",
@@ -1935,6 +2002,7 @@
     "CONCACAF Champions League"
   ],
   [
+    "iraq premier league",
     "Iraq Super League (Dawri Al-Nokhba)",
     "iraqi premier league",
     "irak premier league"
@@ -1953,6 +2021,7 @@
   [
     "Ireland - Premier",
     "Northern Ireland - Premier",
+    "northern ireland nifl premiership",
     "ireland premier league",
     "irish premier division",
     "ierland premier division",
@@ -2765,6 +2834,10 @@
     "Africa - CECAFA Club Cup",
     "Internationale Toernooien CECAFA Beker",
     "CAF CECAFA Clubs Cup (Kagame Inter-Club Cup)"
+  ],
+  [
+    "South Africa Cup (Nedbank Cup)",
+    "south africa nedbank cup"
   ],
   [
     "South Africa - Premier Play Offs",
