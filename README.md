@@ -1,3 +1,6 @@
+# Another L for the bookies
+*Starting May 1, 2025, a new requirement in the Belgian Gambling Act mandates that your identity must be verified before you can bet on sports.*
+
 # history-bets-sm.xls
 Data represents just one side of the arbitrage...
 - 1282 events, 1770 bets
